@@ -28,5 +28,5 @@ quantization (clustering) performed with k-means algorithm (scratch programmed).
 </ul>
 <br /><br />
 Wndows/Linux OS compatibility. Third party library involved: <b>OpenCV</b> 2.4.9, <b>Qt</b> 5.1. <br />
-More info at: <a href="http://www.vcolamatteo.com/computervision" target="_blank">vcolamatteo/computervision</a>
+More info at: <a href="http://www.vcolamatteo.com/computervision" target="_blank">vcolamatteo/computervision</a>.<br />
 For any info request email me at: v.colamatteo@yahoo.it

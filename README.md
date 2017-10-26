@@ -27,7 +27,13 @@ The features-extraction module is based on the Local Quantized Pattern methodolo
 quantization (clustering) performed with k-means algorithm (scratch programmed).  
 </ul>
 <br /><br />
-Wndows/Linux OS compatibility. Third party library involved: <b>OpenCV</b> 2.4.9, <b>Qt</b> 5.1. <br />
+<b>The system is provided of a GUI for helping user during the whole process. The videos below show the enollment and the classification phases. </b><br /><br />
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/4Z74uxv9TAk?list=PLxvtf3ll_ZIinQVWEgSNQxxXJ2YkeD99a" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bRkwsEhyvvI?list=PLxvtf3ll_ZIinQVWEgSNQxxXJ2YkeD99a" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+<br /><br />
+Windows/Linux OS compatibility. Third party library involved: <b>OpenCV</b> 2.4.9, <b>Qt</b> 5.1. <br />
 System divided in a <b>Trainer</b> application and a <b>Recognizer</b> application.<br />
 More info at: <a href="http://www.vcolamatteo.com/computervision" target="_blank">vcolamatteo/computervision</a>.<br />
 For any info request email me at: v.colamatteo@yahoo.it

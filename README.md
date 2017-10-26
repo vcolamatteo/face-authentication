@@ -22,7 +22,7 @@ Multiresolution/Multiscale LBP and SVM with radial filter classification.
 The system is able to work without any kind of liveness-detection, so it doesn't need user cooperation and it's
 absolutely transparent for user.  
 <br /><br />
-<li><b>features extraction</b></li> 
+<li><b>features-extraction</b></li> 
 The features-extraction module is based on the Local Quantized Pattern methodology (LQP), with vector
 quantization (clustering) performed with k-means algorithm (scratch programmed).  
 </ul>

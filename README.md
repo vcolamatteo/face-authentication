@@ -27,11 +27,7 @@ The features-extraction module is based on the Local Quantized Pattern methodolo
 quantization (clustering) performed with k-means algorithm (scratch programmed).  
 </ul>
 <br /><br />
-<b>The system is provided of a GUI for helping user during the whole process. The videos below show the enollment and the classification phases. </b><br /><br />
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/4Z74uxv9TAk?list=PLxvtf3ll_ZIinQVWEgSNQxxXJ2YkeD99a" frameborder="0" gesture="media" allowfullscreen></iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/bRkwsEhyvvI?list=PLxvtf3ll_ZIinQVWEgSNQxxXJ2YkeD99a" frameborder="0" gesture="media" allowfullscreen></iframe>
-
+<b>The system is provided of a GUI for helping user during the <a href="https://www.youtube.com/embed/4Z74uxv9TAk?list=PLxvtf3ll_ZIinQVWEgSNQxxXJ2YkeD99a" target="_blank">enollment</a> and the <a href="https://www.youtube.com/embed/bRkwsEhyvvI?list=PLxvtf3ll_ZIinQVWEgSNQxxXJ2YkeD99a" target="_blank">classification</a> phases of the authentication process. </b><br /><br />
 <br /><br />
 Windows/Linux OS compatibility. Third party library involved: <b>OpenCV</b> 2.4.9, <b>Qt</b> 5.1. <br />
 System divided in a <b>Trainer</b> application and a <b>Recognizer</b> application.<br />

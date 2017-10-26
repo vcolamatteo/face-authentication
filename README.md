@@ -8,11 +8,11 @@ I developed it during my <a href="http://vcolamatteo.altervista.org/Resources/Te
 <br /><br />
 <ul tye="disc">
 <li><b>face-tracking</b></li> 
-OpenCV classifier + template matching technique for angled head-posture detection and a continuos <a href="https://youtu.be/-6J7EZnBn6g" target="_blank"><b>tracking</b> without any visual freeze.   
+OpenCV classifier + template matching technique for angled head-posture detection and a continuos <a href="https://youtu.be/-6J7EZnBn6g" target="_blank"><b>tracking</b></a> without any visual freeze.   
 <br /><br />
 <li><b>eyes-tracking</b></li> 
 for face-cropping (missing a complete face landamaks detection system...) and geometric normalization  
-(a planar face rotation to <a href="https://youtu.be/recchADslj0" target="_blank"><b>normalize</b> user's head-posture)  
+(a planar face rotation to <a href="https://youtu.be/recchADslj0" target="_blank"><b>normalize</b></a> user's head-posture)  
 <br /><br />
 <li><b>brightness-normalization</b></li>  
 For reducing environment light condition variability (the system works with just a RGB webcam) 

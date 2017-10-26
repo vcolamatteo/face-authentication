@@ -15,11 +15,11 @@ for face-cropping (missing a complete face landamaks detection system...) and ge
 (a planar face rotation to normalize user's head-posture)  
 <br /><br />
 <li><b>brightness-normalization</b></li>  
-For reducing environment lihtondition variabilitythe system works with just a RGB webcam) 
+For reducing environment light condition variability (the system works with just a RGB webcam) 
 <br /><br />
 <li><b>face-antispoofing</b></li>  
 Multiresolution/Multiscale LBP and SVM with radial filter classification.   
-The system is able to work without any kind of liveness-detection, so it doesn't need user cooperation and it's
+<a href="https://youtu.be/3VS_uQKb4CA" target="_blank">The system</a> is able to work without any kind of liveness-detection, so it doesn't need user cooperation and it's
 absolutely transparent for user.  
 <br /><br />
 <li><b>features-extraction</b></li> 
